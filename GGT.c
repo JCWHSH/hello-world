@@ -5,7 +5,7 @@ int main() {
 
 	int x = 56; 
 	int y = 49;
-	while (x != y) {
+	while (x != y) {  //wiederhole, wenn x ungleich y
 	    // Re-Initixlsierung von x oder y
 	    if (x >= y)	{
 			x = x - y;
